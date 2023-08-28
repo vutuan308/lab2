@@ -1,0 +1,33 @@
+#tieude {
+    font-size: 20px;
+}
+.content {
+    color: rgb(62, 90, 233);
+    background-color:rgb(133, 175, 238) ;
+}
+span {
+    color: rgb(33, 22, 183);
+}
+img {
+    position: absolute;
+    top: 73px;
+    right: 0;
+    width: 300pxs;
+    height: 200px;
+}
+.contener {
+    position: relative;
+    margin: auto;
+    width: 1000px;
+}
+table td , th {
+    border: 1px solid black;
+    text-align: center;
+
+}
+table {
+    border-collapse: collapse;
+}
+.mau {
+    color: rgb(48, 61, 243);
+}
