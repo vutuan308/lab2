@@ -31,3 +31,10 @@ table {
 .mau {
     color: rgb(48, 61, 243);
 }
+table th {
+    font-weight: bold;
+
+}
+table tr.indam{
+    font-weight: bold;
+}
